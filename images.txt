@@ -9,6 +9,7 @@ syncthing/syncthing:latest
 analogic/poste.io:latest
 portainer/portainer-ce:latest
 minio/minio:latest
+zerotier/zerotier:latest
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
