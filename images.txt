@@ -22,6 +22,7 @@ linuxserver/radarr:latest
 linuxserver/sonarr:latest
 allanpk716/chinesesubfinder:latest
 fallenbagel/jellyseerr:latest
+hsuyelin/nas-tools:latest
 
 #音乐docker
 deluan/navidrome:latest
