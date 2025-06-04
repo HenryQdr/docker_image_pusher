@@ -23,6 +23,7 @@ linuxserver/sonarr:latest
 allanpk716/chinesesubfinder:latest
 fallenbagel/jellyseerr:latest
 jxxghp/moviepilot-v2:latest
+iyuucn/iyuuplus:latest
 
 #音乐docker
 deluan/navidrome:latest
