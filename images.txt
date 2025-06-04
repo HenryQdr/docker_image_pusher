@@ -15,7 +15,7 @@ zerotier/zerotier:latest
 #影视库docker
 nyanmisaka/jellyfin:latest
 linuxserver/qbittorrent:latest
-linuxserver/jackett:latest
+#linuxserver/jackett:latest
 #linuxserver/prowlarr:latest
 21hsmw/flaresolverr:nodriver
 #linuxserver/radarr:latest
@@ -24,7 +24,7 @@ allanpk716/chinesesubfinder:latest
 #fallenbagel/jellyseerr:latest
 jxxghp/moviepilot-v2:latest
 iyuucn/iyuuplus-dev:latest
-linuxserver/transmission:lateat
+linuxserver/transmission:latest
 
 #音乐docker
 deluan/navidrome:latest
