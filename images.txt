@@ -16,14 +16,15 @@ zerotier/zerotier:latest
 nyanmisaka/jellyfin:latest
 linuxserver/qbittorrent:latest
 linuxserver/jackett:latest
-linuxserver/prowlarr:latest
+#linuxserver/prowlarr:latest
 21hsmw/flaresolverr:nodriver
-linuxserver/radarr:latest
-linuxserver/sonarr:latest
+#linuxserver/radarr:latest
+#linuxserver/sonarr:latest
 allanpk716/chinesesubfinder:latest
-fallenbagel/jellyseerr:latest
+#fallenbagel/jellyseerr:latest
 jxxghp/moviepilot-v2:latest
 iyuucn/iyuuplus-dev:latest
+linuxserver/transmission:lateat
 
 #音乐docker
 deluan/navidrome:latest
