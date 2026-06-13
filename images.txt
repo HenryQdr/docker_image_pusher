@@ -13,7 +13,7 @@ zerotier/zerotier:latest
 
 
 #影视库docker
-jellyfin/jellyfin:latest
+nyanmisaka/jellyfin:latest
 linuxserver/qbittorrent:latest
 #linuxserver/jackett:latest
 #linuxserver/prowlarr:latest
