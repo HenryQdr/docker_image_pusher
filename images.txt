@@ -25,7 +25,7 @@ allanpk716/chinesesubfinder:latest
 jxxghp/moviepilot-v2:latest
 iyuucn/iyuuplus-dev:latest
 linuxserver/transmission:4.0.5
-amilys/embyserver:latest
+amilys/embyserver:beta
 
 #音乐docker
 deluan/navidrome:latest
